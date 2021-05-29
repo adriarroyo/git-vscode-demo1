@@ -1,0 +1,66 @@
+*{
+    font-family:Tahoma, sans-serif;
+    font-size: 14;
+}
+.img {
+    width: 200px;
+    margin: 20px;
+}
+.centrado{
+    text-align: center;
+}
+.header-background{
+    background-color: rgb(58, 134, 221);
+}
+.borde {
+border-radius: 300px;border: 5px solid rgb(213, 228, 82);
+background: rgb(231, 238, 138);
+padding: 20px;
+width: 100px;
+}
+.borde{
+margin-left: 600px;
+}
+.menu{
+padding: 10px;
+}
+.span-menu{
+color: rgb(239, 241, 243);
+}
+.span-h1{
+color: rgb(58, 134, 221);
+}
+.span-h2{
+color: rgb(58, 134, 221); 
+}
+.footer {
+background-color: rgb(58, 134, 221);
+padding: 20px;
+margin: 0px;
+color: white;
+}
+.container {
+background-color: rgb(169, 198, 223);
+position: relative;
+max: width 850px;
+}
+.container{
+padding-top: 30px;
+padding-bottom: 30px;
+margin: 0px;
+}
+.span-parrafo{
+color: red;
+}
+.span-facebook{
+color: tomato;
+}
+.span-instagram {
+color: teal;
+}
+.span-twitter{
+color: rgb(54, 54, 196);
+}
+.span-in{
+color: darkgreen;
+}
