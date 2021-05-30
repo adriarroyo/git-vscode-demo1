@@ -19,7 +19,7 @@ padding: 20px;
 width: 100px;
 }
 .borde{
-margin-left: 600px;
+margin: auto;
 }
 .menu{
 padding: 10px;
@@ -48,6 +48,10 @@ max: width 850px;
 padding-top: 30px;
 padding-bottom: 30px;
 margin: 0px;
+}
+.container{
+    width: 500px;
+    margin: auto;
 }
 .span-parrafo{
 color: red;
